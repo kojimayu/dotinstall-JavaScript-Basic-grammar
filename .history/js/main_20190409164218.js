@@ -5,6 +5,4 @@
 // console.log('it's me!');
 
 console.log("it's me!");
-console.log('it\'s me!');
-console.log('hello\no wor\tld');
-console.log('hello' + 'world');
+console.log('it\'s me!')
