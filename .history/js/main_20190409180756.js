@@ -1,7 +1,7 @@
 'use strict';
 
 //定数 const
-//変数　let var
+//変数　let
 
 let price = 150;
 
