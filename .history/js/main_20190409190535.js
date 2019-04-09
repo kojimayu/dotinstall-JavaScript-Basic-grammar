@@ -8,7 +8,7 @@ const score = 85;
 //     console.log('Good');
 // } else {
 //     console.log('OK');
-// }
+}
 
 score >= 80 ? console.log('Great!') : console.log('OK.....!');
 ;
