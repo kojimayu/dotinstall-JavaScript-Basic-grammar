@@ -8,6 +8,7 @@ if (score >= 80) {
     console.log('Good');
 } else {
     console.log('OK');
+    
 }
 
 

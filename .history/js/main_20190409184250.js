@@ -1,6 +1,6 @@
 'use strict';
 
-const score = 40;
+const score = 1;
 
 if (score >= 80) {
     console.log('Great!');
@@ -8,6 +8,7 @@ if (score >= 80) {
     console.log('Good');
 } else {
     console.log('OK');
+    
 }
 
 
