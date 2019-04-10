@@ -11,9 +11,6 @@ function sum(a, b, c) {
 // sum(3, 4, 5)
 
 const total = sum(1, 2, 3) + sum(3, 4, 5);
-// const total = 6 + 12; // 18
-
-console.log(total);
 
 
 
