@@ -19,7 +19,7 @@
 
 // console.log(total);
 
-const double = a => a * 2;
+cosnt double = a => a * 2;
 
 
 console.log(double(12));
