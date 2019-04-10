@@ -11,7 +11,14 @@ function showAD() {
 showAD()
 console.log('Tom is great!');
 console.log('Bob is great!');
+console.log('Tom is great!');
+console.log('Steve is great!');
+console.log('Rich is great!');
+
 showAD()
+console.log('Tom is great!');
+console.log('Bob is great!');
+console.log('Tom is great!');
 console.log('Steve is great!');
 console.log('Rich is great!');
 showAD()
